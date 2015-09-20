@@ -1,17 +1,11 @@
 {
   "name": "bootstrap-css",
-  "version": "3.3.4",
+  "version": "3.0.0",
   "keywords": [
-    "css",
-    "js",
-    "less",
-    "mobile-first",
-    "responsive",
-    "front-end",
-    "framework",
-    "web",
+    "twitter",
     "bootstrap",
     "twitter-bootstrap",
+    "css",
     "bootstrap.js"
   ],
   "main": [
@@ -26,15 +20,21 @@
     "type": "git",
     "url": "git://github.com/jozefizso/bower-bootstrap-css.git"
   },
-  "license": "MIT",
-  "_release": "3.3.4",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "readme": "Bootstrap 3 CSS Library",
+  "_id": "bootstrap-css@3.0.0",
+  "_release": "3.0.0",
   "_resolution": {
     "type": "version",
-    "tag": "3.3.4",
-    "commit": "01808188487a0806a8d68d2b5eaa346dca6f2ad7"
+    "tag": "3.0.0",
+    "commit": "5ef81f33a9e4e5b107b7af526da498c16c89e558"
   },
   "_source": "git://github.com/jozefizso/bower-bootstrap-css.git",
-  "_target": "~3.3.4",
-  "_originalSource": "bootstrap-css",
-  "_direct": true
+  "_target": "~3.0.0",
+  "_originalSource": "bootstrap-css"
 }
